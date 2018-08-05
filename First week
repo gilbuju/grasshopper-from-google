@@ -1,0 +1,38 @@
+Grasshopper
+App from Google to learn how to code in Javascript using gamification
+This course uses Javascript, but the concepts can be applied to any coding language
+
+  What is code? 
+    Code is the name we give to the language we use to talk to computers
+    A computer reads code the same way we read: starting at the top and working down
+    Javascript can create websites, applications, analyze data and animate shapes
+
+  Fundamentals
+    Functions, create variables, control code flow
+
+    Drawing shapes
+#        drawbow(blue)
+         you can use different colors as an argument to this function: yellow, blue, white, green, red, black etc
+#        newline()
+         function to put the cursor at the next line. If you do not put any number between parentheses, it's just one line
+         A function tells a computer to do a certain thing. Functions can take arguments to give the computer extra information. 
+#        drawboxes()
+         useful to draw a lot of boxes with less lines of code
+#        'g': green
+         'r': red
+         'bwb': blue white blue
+         'b w b': blue at first line, white at the second and blue at the final line. Yeah, space bar in this case, has the same newline()'s result 
+#        string:In this function, we start to use singular quotes ' '. These quotation marks show a string to the computer. String is letters, words and sentences in  coding.      
+#         pickrandom()
+          Function to create random results depending of your argument. Example: drawbox(pickrandom(color))      
+   Variables    
+#         var
+          Variables store information you can use later in your code without having to rewrite it.        
+          var x = blue; drawbox(x); var x = yellow; drawbox(x); var month = 'Gilmar'; print(month)
+          The functions as print, drawbox, drawboxes and other are going to run with the last information uploaded at the code
+   Arrays
+#         []
+          array is a list of items and the items have commas between them. The items can be different data types like numbers, strings, and even other arrays (called array nesting")
+#         Array indexing: when you put the array's name and right after without space:[], into them, you can put numbers from 0 (first element from your array) to infinite
+   If Statements
+   
